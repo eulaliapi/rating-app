@@ -1,2 +1,2 @@
-# rating-app
-A simple rating app
+## rating-app
+A simple rating app 

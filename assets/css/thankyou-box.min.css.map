@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACJ,OAAO,EAAE,IAAI;CAChB;;AAED,AAAA,EAAE,CAAC;EACC,UAAU,EAAE,MAAM;EAClB,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "../sass/thankyou-box.scss"
+    ],
+    "names": [],
+    "file": "thankyou-box.min.css"
+}
